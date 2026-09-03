@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3>💻 Database Management System </h3>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![My DBMS](https://skillicons.dev/icons?i=mysql,mongodb)
 
 <h3>⚙ Frameworks & Runtime</h3>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
