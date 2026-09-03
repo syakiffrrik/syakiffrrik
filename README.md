@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Bamsakif Riki Raditya Wiguna 👋
+
+### I'm currently learning [TypeScript](https://www.typescriptlang.org/)
+
 
 <!--
 **syakiffrrik/syakiffrrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
