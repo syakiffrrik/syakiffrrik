@@ -13,17 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Bamsakif Riki Raditya Wiguna</h1>
-<h3 align="center"> Tech Enthusiast 💡 | Junior FullStack Developer 🚀 | Junior Hardware Engineer 💽</h3>
+<h2 align="center">Hey 👋, I'm Riki Raditya</h2>
+<h4 align="center"> Tech Enthusiast | Junior FullStack Developer | Junior Hardware Engineer</h4>
+<p align="center">It's my Github profile. I'm a vocational high school student majoring in Software Engineering and an aspiring Junior Full-Stack Developer. I can create impressive, high-quality websites featuring stunning UI/UX designs. I also have a knack for repairing and assembling laptops and computers.</p>
 
-- 🌱 I’m currently learning **React**
+<p>Currently learning Arduino, ESP32 & React </p>
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rkirdty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rkirdty" height="30" width="40" /></a>
-</p> -->
 <hr>
+<h3 align="left">💡 Skills</h3>
 
-<h3 align="left">Skills</h3>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,php)](https://skillicons.dev)
+<h3>💻 Database Management System </h3>
+
+![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+
+<h3>⚙ Frameworks & Runtime</h3>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+
+<h3>💡 Prototyping Platforms</h3>
+<img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white">
+<img src="https://avatars.githubusercontent.com/u/56967200?s=280&v=4" height=40 width=40 object-fit=cover>
+
+<hr>
+<h5>That covers the entire content of my GitHub profile. Here's to keeping the momentum going! 🔥 </h5>
