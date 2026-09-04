@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hey 👋, I'm Riki Raditya</h2>
-<h4 align="center"> Tech Enthusiast | Junior FullStack Developer | Junior Hardware Engineer</h4>
-<p align="center">It's my Github profile. I'm a vocational high school student majoring in Software Engineering and an aspiring Junior Full-Stack Developer. I can create impressive, high-quality websites featuring stunning UI/UX designs. I also have a knack for repairing and assembling laptops and computers.</p>
+<h4 align="center"> Tech Enthusiast | Aspiring Software Engineer | Aspiring Hardware Engineer</h4>
 
 <p>Currently learning Arduino, ESP32 & React </p>
 
