@@ -33,6 +33,3 @@ Here are some ideas to get you started:
 
 <h3>💡 Prototyping Platforms</h3>
 <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white">
-
-<hr>
-<h5>That covers the entire content of my GitHub profile. Here's to keeping the momentum going! 🔥 </h5>
