@@ -6,7 +6,7 @@
 <hr>
 <h3 align="left">💡 Skills</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py)
 
 <h3>💻 Database Management System </h3>
 
