@@ -21,7 +21,9 @@
 ![My DBMS](https://skillicons.dev/icons?i=mysql,mongodb)
 
 <h5>Prototyping Platforms</h5>
-<img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white">
+
+![Tinkercad](https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 <h5>Tools</h5>
 
