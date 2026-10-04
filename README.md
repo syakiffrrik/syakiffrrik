@@ -1,7 +1,9 @@
 <h2 align="center">Hey 👋, I'm Riki Raditya</h2>
 <h4 align="center"> Tech Enthusiast | Aspiring Software Engineer | Aspiring Hardware Engineer</h4>
 
-<p>Currently learning Arduino - ESP32, React, Backend Architecture, Mau jadi keren!</p>
+<hr>
+<h5>Currently Learning</h5>
+<h5>Arduino - ESP32, React, Backend Architecture, Mau jadi keren!</h5>
 
 <hr>
 <h4 align="left">Tech Stack</h4>
