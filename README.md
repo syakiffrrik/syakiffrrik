@@ -10,11 +10,11 @@
 <hr>
 <h5 align="left">Frontend</h5>
 
-![frontend](https://skillicons.dev/icons?i=html,css,js,react,py)
+![frontend](https://skillicons.dev/icons?i=html,css,js,react)
 
 <h5 align="left">Backend</h5>
 
-![backend](https://skillicons.dev/icons?i=nodejs,php)
+![backend](https://skillicons.dev/icons?i=nodejs,php,py)
 
 <h5>Database Management System</h5>
 
